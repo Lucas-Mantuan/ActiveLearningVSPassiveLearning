@@ -4,4 +4,4 @@ Labeling the training data for a machine learning algorithm is a tedious and tim
 
 The article highlighted with the title ACTIVE LEARNING: A SMART APPROACH TO DATA SAMPLING, highlights the process used to compare active and passive learning.
 
-O código comentado para a implementação dos algoritmos está dispoível na pasta Article
+The commented code for implementing the algorithms is available in the Article folder
